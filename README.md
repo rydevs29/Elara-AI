@@ -111,3 +111,5 @@ Elara menggunakan kalkulator beban server *real-time* yang otomatis memulihkan k
 | **Supernova (Sultan)** | Seluruh Model Dewa (Qwen 3.8 2.4T, Max, Kimi K3, DeepSeek V4 Pro, Wan 3.0 Video Prime) | Maks. 50 Foto/Dokumen/Video | Prioritas API Tertinggi, Render Video AI, Kuota Maksimal. |
 
 ---
+
+**Website Kami:** [Klik Disini](https://elara.rifqydev.my.id)
