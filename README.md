@@ -16,9 +16,9 @@
 
 ---
 
-## Ikhtisar Ekosistem (Overview)
+## Pengenalan Ekosistem (Overview)
 
-**Elara AI** adalah ekosistem kecerdasan buatan berlapis (*Multi-Layer Monster Engine*) yang dirancang dan dikembangkan sepenuhnya oleh **RifqyDev** dari Indonesia. Dibangun di atas infrastruktur *serverless* modern dan disinkronkan secara *real-time* melalui **Firebase Firestore** serta **Cloudflare R2**, Elara menggabungkan puluhan model bahasa besar (LLM), generator visual, sintetis suara, pusat riset akademik, hingga sistem evaluasi ujian berintegritas tinggi dalam satu antarmuka terpadu.
+**Elara AI** adalah ekosistem kecerdasan buatan berlapis (*Multi-Layer Monster Engine*) yang dirancang dan dikembangkan sepenuhnya oleh **RifqyDev** dari Indonesia. Dibangun di atas infrastruktur *serverless* modern dan disinkronkan secara *real-time* dan Elara menggabungkan puluhan model bahasa besar (LLM), generator visual, sintetis suara, pusat riset akademik, hingga sistem evaluasi ujian berintegritas tinggi dalam satu antarmuka terpadu.
 
 ---
 
