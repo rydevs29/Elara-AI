@@ -47,17 +47,17 @@ Elara menggunakan sistem *Smart Classification & Direct Routing* yang secara oto
 ### 1. Elara Ensemble (5-AI Multi-Model Fusion)
 Menjalankan kueri secara paralel ke **Qwen 3.8 Max**, **GLM 5.3**, **DeepSeek V4 Pro 0813**, **Gemini 3.8 Flash**, dan **Nemo Ultra 550B**, lalu menyintesis poin-poin terbaik menjadi satu jawaban komprehensif yang terverifikasi.
 
-### 2. Alibaba DashScope & Qwen Fleet (17 Model Generasi Terbaru)
+### 2. Alibaba (17 Model Generasi Terbaru)
 * **Ultra & Flagship:** `qwen3.8-2.4t-a95b`, `qwen3.8-max`, `qwen3.8-max-0902`, `qwen3.8-27b`
 * **Reasoning & Coding:** `kimi-k3`, `deepseek-v4-pro-0813`, `glm-5.3`
 * **High-Speed Flash:** `qwen3.8-flash`, `qwen3.7-flash`, `qwen3.7-flash-2026-07-15`, `deepseek-v4.1-flash`, `deepseek-v4-flash-0731`
 * **Multimodal & Vision/Video:** `qwen3.8-omni-flash`, `qwen3.8-omni-flash-realtime`, `qwen-image-2.1-turbo`, `wan3.0-video`, `wan3.0-video-prime`
 
-### 3. Google Gemini Native Engine (Multi-Key Failover)
+### 3. Google Gemini
 * `gemini-3.8-flash`, `gemini-3.5-flash`, `gemini-3.5-flash-lite`, `gemini-3.1-flash-lite`, `gemini-2.5-flash-lite`
 * **Audio & Specialized:** `gemini-3.1-flash-tts`, `gemini-2.5-flash-audio`, `gemini-robotics-er-1.6-preview`, `gemma` (Gemma 4)
 
-### 4. OpenRouter Free Fleet (14 Model Terkurasi)
+### 4. OpenRouter Free (14 Model Terkurasi)
 * `nvidia/nemotron-3-ultra-550b-a55b:free` (`nemotron_super`)
 * `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free` (`nemotron_reasoning`)
 * `nvidia/nemotron-3.5-lightning:free` (`nemotron_lightning`)
