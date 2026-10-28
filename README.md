@@ -18,7 +18,7 @@
 
 ## Pengenalan Ekosistem (Overview)
 
-**Elara AI** adalah ekosistem kecerdasan buatan berlapis (*Multi-Layer Monster Engine*) yang dirancang dan dikembangkan sepenuhnya oleh **RifqyDev** dari Indonesia. Dibangun di atas infrastruktur *serverless* modern dan disinkronkan secara *real-time* dan Elara menggabungkan puluhan model bahasa besar (LLM), generator visual, sintetis suara, pusat riset akademik, hingga sistem evaluasi ujian berintegritas tinggi dalam satu antarmuka terpadu.
+**Elara AI** adalah ekosistem kecerdasan buatan berlapis (*Multi-Layer Monster Engine*) yang dirancang dan dikembangkan sepenuhnya oleh **Rifqy Aditya** dari Indonesia. Dibangun di atas infrastruktur *serverless* modern dan disinkronkan secara *real-time* dan Elara menggabungkan puluhan model bahasa besar (LLM), generator visual, sintetis suara, pusat riset akademik, hingga sistem evaluasi ujian berintegritas tinggi dalam satu antarmuka terpadu.
 
 ---
 
@@ -36,7 +36,7 @@
 | **Elara Blueprint** | Perancang arsitektur sistem, pembuatan diagram alur (*Mermaid.js* ke PNG/PDF), dan prototipe proyek. |
 | **Elara Odyssey & Stealth** | Eksplorasi skenario mendalam dan mode privasi berlapis dengan enkripsi sisi klien. |
 | **Community Hub** | Ruang kolaborasi pengguna, berbagi *prompt*, dan diskusi publik. |
-| **Developer & MCP Portal** | Dokumentasi API eksternal dan integrasi *Remote Model Context Protocol (MCP)* untuk **Gemini Spark**. |
+| **Developer & MCP Portal** | Dokumentasi API eksternal dan integrasi *Remote Model Context Protocol (MCP)* untuk **Gemini Spark, Claude Code and OpenCode**. |
 
 ---
 
@@ -49,7 +49,7 @@ Menjalankan kueri secara paralel ke **Qwen 3.8 Max**, **GLM 5.3**, **DeepSeek V4
 
 ### 2. Alibaba (17 Model Generasi Terbaru)
 * **Ultra & Flagship:** `qwen3.8-2.4t-a95b`, `qwen3.8-max`, `qwen3.8-max-0902`, `qwen3.8-27b`
-* **Reasoning & Coding:** `kimi-k3`, `deepseek-v4-pro-0813`, `glm-5.3`
+* **Reasoning & Coding:** `deepseek-v4-pro-0813`, `glm-5.3`
 * **High-Speed Flash:** `qwen3.8-flash`, `qwen3.7-flash`, `qwen3.7-flash-2026-07-15`, `deepseek-v4.1-flash`, `deepseek-v4-flash-0731`
 * **Multimodal & Vision/Video:** `qwen3.8-omni-flash`, `qwen3.8-omni-flash-realtime`, `qwen-image-2.1-turbo`, `wan3.0-video`, `wan3.0-video-prime`
 
@@ -108,7 +108,7 @@ Elara menggunakan kalkulator beban server *real-time* yang otomatis memulihkan k
 | :--- | :--- | :--- | :--- |
 | **Neon (Gratis)** | Seluruh Model Gratis, OpenRouter Free & Auto | Maks. 2 Foto / 3 Berkas | 5x Fast Web Search/Bulan, Memory AI, Export Dasar. |
 | **Plasma (Pro)** | Model Neon + Kasta Plasma (Qwen 3.8 27B, Omni Flash, Gemini 3.5 Flash, Elara Search) | Maks. 15 Foto/Dokumen/Video | Deep Search Tanpa Batas, Agent Mode, Canvas. |
-| **Supernova (Sultan)** | Seluruh Model Dewa (Qwen 3.8 2.4T, Max, Kimi K3, DeepSeek V4 Pro, Wan 3.0 Video Prime) | Maks. 50 Foto/Dokumen/Video | Prioritas API Tertinggi, Render Video AI, Kuota Maksimal. |
+| **Supernova (Sultan)** | Seluruh Model Dewa (Qwen 3.8 2.4T, Max, DeepSeek V4 Pro, Wan 3.0 Video Prime) | Maks. 50 Foto/Dokumen/Video | Prioritas API Tertinggi, Render Video AI, Kuota Maksimal. |
 
 ---
 
